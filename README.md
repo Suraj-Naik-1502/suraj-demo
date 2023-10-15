@@ -1,3 +1,3 @@
 # suraj-demo
 My first Git Repository.<br>
-Author - Suraj Naik
+Author - Suraj (DBIT)
